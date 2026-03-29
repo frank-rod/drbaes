@@ -130,14 +130,14 @@ a {
     left: 0;
     right: 0;
     z-index: 1000;
-    padding: 24px 0;
+    padding: 18px 0;
     background: var(--white);
     border-bottom: 1px solid var(--gray-200);
     transition: all 0.4s ease;
 }
 
 #navbar.scrolled {
-    padding: 16px 0;
+    padding: 12px 0;
     box-shadow: 0 1px 20px rgba(0, 0, 0, 0.06);
     border-bottom-color: transparent;
 }
@@ -152,7 +152,7 @@ a {
 }
 
 .nav-logo img {
-    height: 52px;
+    height: 40px;
     width: auto;
     transition: var(--transition);
 }
