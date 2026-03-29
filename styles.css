@@ -1285,11 +1285,12 @@ a {
     border-bottom: 1px solid rgba(255, 255, 255, 0.08);
 }
 
-.footer-logo {
-    height: 40px;
-    width: auto;
+.footer-brand-name {
+    font-family: var(--font-heading);
+    font-size: 1.4rem;
+    font-weight: 600;
+    color: var(--white);
     margin-bottom: 16px;
-    filter: brightness(0) invert(1);
 }
 
 .footer-brand p {
